@@ -14,17 +14,17 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-11-16",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月16日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-11-23",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月23日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
     "version": "0.1.0"
   },
   "counts": {
-    "records": 14885,
+    "records": 14876,
     "files": 48,
-    "with_coordinates": 14669
+    "with_coordinates": 14660
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -60,44 +60,44 @@
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 14885,
-    "managed_id": 14885,
-    "category_code": 14885,
-    "category_name": 14885,
-    "url": 14885,
-    "name": 14885,
-    "name_kana": 14728,
-    "quantity": 14885,
-    "types": 14885,
-    "period": 14885,
-    "year_text": 14884,
-    "western_year": 14695,
-    "structure": 14884,
+    "ledger_id": 14876,
+    "managed_id": 14876,
+    "category_code": 14876,
+    "category_name": 14876,
+    "url": 14876,
+    "name": 14876,
+    "name_kana": 14719,
+    "quantity": 14876,
+    "types": 14876,
+    "period": 14876,
+    "year_text": 14875,
+    "western_year": 14686,
+    "structure": 14875,
     "notes": 1,
-    "designation_kind": 14885,
-    "designation_number": 14754,
-    "registration_round": 14882,
-    "designated_date": 14882,
-    "announced_date": 14440,
-    "criteria": 14885,
-    "prefecture": 14883,
-    "address": 14875,
-    "latitude": 14669,
-    "longitude": 14669,
+    "designation_kind": 14876,
+    "designation_number": 14745,
+    "registration_round": 14873,
+    "designated_date": 14873,
+    "announced_date": 14431,
+    "criteria": 14876,
+    "prefecture": 14874,
+    "address": 14866,
+    "latitude": 14660,
+    "longitude": 14660,
     "storage_facility": 1,
-    "owner": 7747,
-    "owner_type": 3671,
+    "owner": 7738,
+    "owner_type": 3670,
     "custodian": 17,
-    "description": 14885,
-    "has_attachment": 14885,
-    "has_photo": 14885
+    "description": 14876,
+    "has_attachment": 14876,
+    "has_photo": 14876
   },
   "facets": {
     "types": {
-      "建築物": 11817,
-      "住宅": 6698,
-      "その他工作物": 2345,
-      "宗教": 2258,
+      "建築物": 11810,
+      "住宅": 6690,
+      "その他工作物": 2343,
+      "宗教": 2257,
       "産業3次": 1832,
       "産業2次": 1509,
       "土木構造物": 716,
@@ -112,15 +112,15 @@
       "その他工作": 7
     },
     "period": {
-      "明治": 4654,
+      "明治": 4646,
       "昭和前": 3788,
-      "大正": 2968,
+      "大正": 2967,
       "江戸": 2679,
       "昭和中": 703,
       "昭和後": 93
     },
     "prefecture": {
-      "大阪府": 905,
+      "大阪府": 904,
       "兵庫県": 835,
       "京都府": 701,
       "長野県": 669,
@@ -130,7 +130,7 @@
       "東京都": 487,
       "香川県": 449,
       "和歌山県": 407,
-      "岡山県": 387,
+      "岡山県": 379,
       "奈良県": 366,
       "群馬県": 362,
       "神奈川県": 350,
@@ -169,15 +169,15 @@
       "沖縄県": 91
     },
     "criteria": {
-      "国土の歴史的景観に寄与しているもの": 10052,
-      "造形の規範となっているもの": 4073,
-      "再現することが容易でないもの": 760
+      "国土の歴史的景観に寄与しているもの": 10046,
+      "造形の規範となっているもの": 4071,
+      "再現することが容易でないもの": 759
     },
     "owner_type": {
       "営利法人": 957,
       "宗教法人": 905,
       "市区町村": 874,
-      "非営利法人": 552,
+      "非営利法人": 551,
       "都道府県": 158,
       "学校法人": 66,
       "公益法人": 59,
@@ -187,7 +187,7 @@
       "ＮＰＯ法人": 13
     },
     "designation_kind": {
-      "登録": 14885
+      "登録": 14876
     }
   },
   "files": [
@@ -351,7 +351,7 @@
       "path": "data/27_osaka.jsonl",
       "area_code": "27",
       "area_name": "大阪府",
-      "records": 905
+      "records": 904
     },
     {
       "path": "data/28_hyogo.jsonl",
@@ -387,7 +387,7 @@
       "path": "data/33_okayama.jsonl",
       "area_code": "33",
       "area_name": "岡山県",
-      "records": 387
+      "records": 379
     },
     {
       "path": "data/34_hiroshima.jsonl",
